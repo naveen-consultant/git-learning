@@ -1,4 +1,4 @@
-This is a poem about Rainbow.
+This is a poem about Rainbow and the Unicorn.
 
 Violet
 Indigo
@@ -9,5 +9,5 @@ Orange
 Red
 
 Extra Colour - Black
-
-That's my poem.
+Extra Colour - Unicorn
+That's my poem about Rainbow and the Unicorn.
